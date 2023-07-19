@@ -89,7 +89,7 @@
 <div align="center" >
 
 <!-- Github-Stats-Terminal 终端风格信息 -->
-<img src="https://cdn.jsdelivr.net/gh/SvipWangyh/Github-Stats-Terminal/github_stats.svg"/><br>
+<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Github-Stats-Terminal/github_stats.svg"/><br>
 <!-- GitHub 奖杯🏆 -->
 <img  src="https://github-profile-trophy.vercel.app/?username=SvipWangyh&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br>
 
